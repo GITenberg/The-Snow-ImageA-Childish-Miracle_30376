@@ -1,0 +1,46 @@
+_repo: The-Snow-ImageA-Childish-Miracle_30376
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Waterman, Marcus A.
+    aliases:
+    - Waterman, M. A. (Marcus A.)
+    - Waterman, Mark A.
+    birthdate: 1834
+    deathdate: 1914
+    gutenberg_agent_id: '34567'
+    url: http://www.gutenberg.org/2009/agents/34567
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: A collection of short stories, originally published in 1851. 'Aside from
+  his importance as a novelist, Hawthorne is justly celebrated as a short-story writer.
+  He helped to establish the American short story as a significant art form with his
+  haunting tales of human loneliness, frustration, hypocrisy, eccentricity, and frailty.'
+  -- The Columbia Encyclopedia.
+gutenberg_issued: '2009-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30376'
+  lccn: '07003774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+title: 'The Snow-Image
+
+  A Childish Miracle'
+url: http://www.gutenberg.org/ebooks/30376
